@@ -11,7 +11,7 @@ I used following code as reference: https://github.com/bmild/nerf/blob/master/ti
 I only perform uniform random sampling for getting 3D points along rays. I compare the function approximation between coordinate space to RGB-density space, as MLP, CNN and Attention Architecture. In following 360 degree view rendering comparison, MLP's overfitting capability serves to make it suitable for the rendering task.
 
 
-https://github.com/antidianuj/simple_nerf/assets/47445756/13034943-1d2b-4d75-881f-6a59e1803e35
+![output_video](https://github.com/antidianuj/simple_nerf/assets/47445756/99a1b66f-438f-4795-b480-0966222c9aaf)
 
 
 
@@ -26,3 +26,4 @@ I perform first uniform sampling, and then hiearchical sampling to sample additi
 
 https://github.com/antidianuj/simple_nerf/assets/47445756/132da8cc-aa5f-4223-83cb-ccab5474525a
 
+![output_video (1)](https://github.com/antidianuj/simple_nerf/assets/47445756/6c9e6351-b49a-47b5-990e-cfb114afcfc9)
